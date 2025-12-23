@@ -54,8 +54,6 @@ Currently building projects and strengthening my fundamentals through hands-on l
 ---
 
 ## 📊 GitHub Stats
-![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudip7878&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudip7878&layout=compact&theme=tokyonight)
 
 ---
