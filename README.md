@@ -54,16 +54,16 @@ Currently building projects and strengthening my fundamentals through hands-on l
 ---
 
 ## 📊 GitHub Stats
-![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudip7878&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudip7878&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Portfolio & Links
-- 🌍 Portfolio: https://your-portfolio-link
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📧 Email: your.email@example.com
+- 🌍 Portfolio: https://sudip7878.github.io/Sudip7878/
+- 💼 LinkedIn: https://www.linkedin.com/in/sudip-yadav-520874303/
+- 📧 Email: sudipyadav787898@gmail.com
 
 ---
 
